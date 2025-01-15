@@ -2,7 +2,7 @@ This is a simulation to show interactions between altruists and selfish individu
 
 Pressing the "Start simulation" button will take all the currently inputted parameters, and if there are no value errors, will run the simulation on a pygame window.
 
-Here are the parameters and what they individuall do:
+Here are the parameters and what they individual do:
 
 - Initial population size: The number of individuals in the 1st generation
 - Max population size: The max number of individuals in any one generation. If the number of indviduals exceed this after the reproduction phase, they will be randomly culled until it matches the max size.
